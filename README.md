@@ -27,7 +27,7 @@ the .exe has been generated with pyinstaller.
 You can generate your own version with this command : pyinstaller IPLogParser.py --onefile
 
   
-screenshot "iplogparser_exe.jpg" shows the script in action with a log file containing 170948 lines.
+Screenshot "iplogparser_exe.jpg" shows the script in action with a log file containing 170948 lines.
 
-  screenshot "iplogparser-_exe.jpg" shows the script in action with the "-c" activated
+Screenshot "iplogparser-_exe.jpg" shows the script in action with the "-c" activated
   
