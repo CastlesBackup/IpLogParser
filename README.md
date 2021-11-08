@@ -1,10 +1,16 @@
 # iplogparser
 """
+
 Created on Tue Oct 26 19:10:26 2021
+
 @author: GO-MCF
-usage : python IPLogParser.py -i <IPListFile> -l <logFile> -o <outputFileIPFound> -c
+
+usage : python IPLogParser.py -i IPListFile -l logFile -o outputFileIPFound -c
+  
 or
-IPLogParser.exe -i <IPListFile> -l <logFile> -o <outputFileIPFound> -c
+  
+IPLogParser.exe -i IPListFile -l logFile -o outputFileIPFound -c
+  
 """
 
 This script has been developped with python 3.8.8
@@ -20,3 +26,8 @@ I've generated the .exe file to run with windows 10.
 the .exe has been generated with pyinstaller.
 You can generate your own version with this command : pyinstaller IPLogParser.py --onefile
 
+  
+screenshot "iplogparser_exe.jpg" shows the script in action with a log file containing 170948 lines.
+
+  screenshot "iplogparser-_exe.jpg" shows the script in action with the "-c" activated
+  
