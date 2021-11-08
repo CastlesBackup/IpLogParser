@@ -1,4 +1,4 @@
-# iplogparser
+# ipLogParser
 """
 
 Created on Tue Oct 26 19:10:26 2021
