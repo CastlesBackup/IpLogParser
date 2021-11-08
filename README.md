@@ -13,7 +13,7 @@ This python script is used to find a list of ip adress in a log file.
 
 IPListFile : File containig a list of ip adress
 logFile : File we want to find ip adress from the IPListFile below
-outputFileIPFound : All ip found will be saved in this file
+outputFileIPFound : All ip found will be saved in this file prefixed by datetime like 20210403_outputFileIPFound.txt
 if we want to have the count of each ip adress found, add -c to the command line
 
 I've generated the .exe file to run with windows 10.
